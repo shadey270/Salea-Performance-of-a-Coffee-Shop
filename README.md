@@ -44,6 +44,10 @@ With the aid of pie charts, bar charts, and column graphs, I presented the total
 ![](top-10-customer-sales.png)
   ---
 
+  ### Sales Performance Dashboard
+![](coffee-shop-dashboard.png)
+  ---
+
   # Conclusion
 The sales performance analysis highlights a clear dominance of the U.S. market, with substantial contributions from select coffee types. The coffee shop could use these insights to expand sales further in underperforming regions and encourage repeat purchases from top customers. Focused marketing strategies and improved inventory management are key to increasing overall sales and profitability.
 
